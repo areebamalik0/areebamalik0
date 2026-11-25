@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/areebamalik0">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C8FF4D&center=true&vCenter=true&width=620&lines=Computer+Science+Student;Web+Development;Artificial+Intelligence;Building+one+project+at+a+time" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C8FF4D&center=true&vCenter=true&width=620&lines=Computer+Science+Student;Web+Developer;AI+&+ML+Enthusiast;Building+one+project+at+a+time" alt="Typing animation" />
 </a>
 
 <br/>
@@ -21,7 +21,7 @@
 {
   "name": "Areeba Malik",
   "education": "BS Computer Science",
-  "focus": ["Web Development", "Artificial Intelligence"],
+  "focus": ["Web Developer", "AI & ML Enthusiast"],
   "based_in": "Pakistan",
   "status": "building"
 }
