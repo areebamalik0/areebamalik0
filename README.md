@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E14,100:C8FF4D&height=220&section=header&text=Areeba%20Malik&fontSize=62&fontColor=EDEFF4&fontAlignY=38&desc=Web%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descSize=18&descAlignY=58" width="100%" alt="Areeba Malik banner" />
-
 <div align="center">
 
 <a href="https://github.com/areebamalik0">
