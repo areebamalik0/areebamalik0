@@ -93,15 +93,4 @@ I love the moment a line of code turns into something on the screen. Web develop
 
 <br/>
 
-## `~/stats`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=areebamalik0&show_icons=true&hide_border=true&bg_color=0B0E14&title_color=C8FF4D&icon_color=FF6B5E&text_color=EDEFF4" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areebamalik0&layout=compact&hide_border=true&bg_color=0B0E14&title_color=C8FF4D&text_color=EDEFF4" alt="Top languages" />
-
-</div>
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E14,100:C8FF4D&height=120&section=footer" width="100%" alt="footer" />
